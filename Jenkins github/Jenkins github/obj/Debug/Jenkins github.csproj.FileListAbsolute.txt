@@ -1,0 +1,56 @@
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\obj\Debug\Jenkins github.csprojAssemblyReference.cache
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\obj\Debug\Jenkins github.csproj.CoreCompileInputs.cache
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\Jenkins github.dll.config
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\Jenkins github.dll
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\Jenkins github.pdb
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\csc.exe
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\csc.exe.config
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\csc.rsp
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\csi.exe
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\csi.exe.config
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\csi.rsp
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\System.AppContext.dll
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\System.Console.dll
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\System.IO.Compression.dll
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\System.IO.Pipes.dll
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\System.Security.Claims.dll
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\System.ValueTuple.dll
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\System.Xml.XPath.dll
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\vbc.exe
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\vbc.exe.config
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\vbc.rsp
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\VBCSCompiler.exe
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\obj\Debug\Jenkins github.csproj.CopyComplete
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\obj\Debug\Jenkins github.dll
+C:\Users\manjula.pasam\source\repos\Jenkins github\Jenkins github\obj\Debug\Jenkins github.pdb
